@@ -8,6 +8,11 @@ import javax.net.ssl.HttpsURLConnection;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
+
+
+
+
+
 //@author ajmerino
 public class Metodo2 {
 
